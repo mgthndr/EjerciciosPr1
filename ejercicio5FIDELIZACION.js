@@ -1,5 +1,5 @@
 const patron = /^[C]\d{10}$/;
-//patron de la cedula
+//patron de la cedula asdsadas
 let cedula;
 do {
 cedula = prompt("Ingrese su cedula con una C al principio:\n" +
