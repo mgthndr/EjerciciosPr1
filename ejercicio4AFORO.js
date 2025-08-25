@@ -27,7 +27,7 @@ switch (codigoUsuario.charAt(0)) {
     direccion = "Oriental";
     break;
   case "T":
-    direccion = "Occidentl";
+    direccion = "Occidental";
     break;
   case "S":
     direccion = "Sur";
