@@ -54,11 +54,7 @@ if (Clase == true) {
     }
   } while (isNaN(monto) || monto < 10000);
   mensaje = "Recarga exitosa\n" +
-    `Monto recargado: $${monto}\n`;
-    alert(
-  `Operador: ${planSeleccionado.nombre}\n` +
-  `${mensaje}\n`
-);
+    `Monto recargado: $${monto}\n`
 }
 let meses;
 do {
