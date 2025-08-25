@@ -1,1 +1,4 @@
-# EjerciciosPr1
+# Ejercicios JavaScript
+
+Total de 6 ejercicios:
+*
