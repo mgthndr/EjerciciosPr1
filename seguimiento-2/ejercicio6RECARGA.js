@@ -54,7 +54,7 @@ if (Clase == true) {
     }
   } while (isNaN(monto) || monto < 10000);
   mensaje = "Recarga exitosa\n" +
-    `Monto recargado: $${monto}\n`
+    `Monto recargado: $${monto}\n`;
 }
 let meses;
 do {
